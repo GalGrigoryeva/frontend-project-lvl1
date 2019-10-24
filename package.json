@@ -1,0 +1,18 @@
+{
+  "name": "frontend-project-lvl1",
+  "version": "1.0.0",
+  "description": "Hexlet: Frontend Profession, 1st project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalGrigoryeva/frontend-project-lvl1.git"
+  },
+  "author": "Galina Grigoryeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalGrigoryeva/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/GalGrigoryeva/frontend-project-lvl1#readme"
+}
