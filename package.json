@@ -2,6 +2,9 @@
   "name": "frontend-project-lvl1",
   "version": "1.0.0",
   "description": "Hexlet: Frontend Profession, 1st project",
+  "bin": {
+    "brainGames": "dist/bin/brain-games.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
