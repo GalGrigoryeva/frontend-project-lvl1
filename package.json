@@ -2,6 +2,8 @@
   "name": "frontend-project-lvl1",
   "version": "1.0.0",
   "description": "Hexlet: Frontend Profession, 1st project",
+  "main": "src/index.js",
+  "type": "module",
   "bin": {
     "brainGames": "dist/bin/brain-games.js"
   },
